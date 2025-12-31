@@ -1,6 +1,6 @@
-# Stockpot Support
+# Stokpot Support
 
-Welcome to Stockpot – your all-in-one kitchen companion for meal planning, pantry tracking, and recipe discovery.
+Welcome to Stokpot – your all-in-one kitchen companion for meal planning, pantry tracking, and recipe discovery.
 
 ## Frequently Asked Questions
 
@@ -10,7 +10,7 @@ Welcome to Stockpot – your all-in-one kitchen companion for meal planning, pan
 Tap the Pantry tab, then tap the + button in the top right. You can search for ingredients or browse by category.
 
 **How does meal planning work?**
-Go to the Plan tab and tap "Smart Meal Planner." Select your preferences (number of days, dietary restrictions, etc.) and Stockpot will generate a personalized meal plan. Swipe left on any meal to get a different suggestion.
+Go to the Plan tab and tap "Smart Meal Planner." Select your preferences (number of days, dietary restrictions, etc.) and Stokpot will generate a personalized meal plan. Swipe left on any meal to get a different suggestion.
 
 **How do I add recipes to my collection?**
 When viewing any recipe, tap the heart icon to save it to your favorites. You can find all saved recipes in the Recipes tab under "Favorites."
@@ -18,7 +18,7 @@ When viewing any recipe, tap the heart icon to save it to your favorites. You ca
 ### Shopping Lists
 
 **How are shopping lists generated?**
-When you save a meal plan, Stockpot automatically creates a shopping list with all the ingredients you need. It checks your pantry and only adds items you don't already have.
+When you save a meal plan, Stokpot automatically creates a shopping list with all the ingredients you need. It checks your pantry and only adds items you don't already have.
 
 **How accurate are the price estimates?**
 Price estimates are based on average grocery prices and may vary by location and store. Use them as a general guide for budgeting.
