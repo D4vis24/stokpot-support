@@ -2,15 +2,15 @@
 
 **Last Updated: December 30, 2024**
 
-Please read these Terms of Service ("Terms") carefully before using the Stockpot mobile application ("App") operated by Michael Davis ("we," "us," or "our").
+Please read these Terms of Service ("Terms") carefully before using the Stokpot mobile application ("App") operated by Michael Davis ("we," "us," or "our").
 
 ## Acceptance of Terms
 
-By downloading, installing, or using Stockpot, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Stokpot, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
 ## Description of Service
 
-Stockpot is a meal planning and kitchen management app that allows you to:
+Stokpot is a meal planning and kitchen management app that allows you to:
 - Track pantry inventory
 - Plan meals and generate meal plans
 - Discover and save recipes
