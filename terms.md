@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: December 30, 2024**
+**Last Updated: January 1, 2026**
 
 Please read these Terms of Service ("Terms") carefully before using the Stokpot mobile application ("App") operated by Michael Davis ("we," "us," or "our").
 
