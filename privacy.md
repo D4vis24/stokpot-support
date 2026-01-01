@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: December 30, 2024**
+**Last Updated: January 1, 2026**
 
 Stokpot ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
